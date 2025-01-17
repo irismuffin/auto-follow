@@ -1,7 +1,7 @@
 # 智能跟随辅助系统设计课程设计相关资料
 本项目中包含“智能跟随辅助系统设计”中的相关工程源文件和实验报告。
 ## 目录结构
-auto-follow/
+auto-follow/  
 ├─opencv-cpp/                        # 通过opencv的视觉图像处理识别车牌  
 ├─video_source_and_frame/            # OV5647摄像头采集的车牌视频以及图像帧  
 ├─yolov5/                            # yolov5的训练代码，自定义内容在mydata/目录下  
