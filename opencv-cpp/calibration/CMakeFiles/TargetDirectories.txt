@@ -1,0 +1,3 @@
+/home/sunrise/Desktop/auto-follow/calibration/CMakeFiles/camera_calibration.dir
+/home/sunrise/Desktop/auto-follow/calibration/CMakeFiles/edit_cache.dir
+/home/sunrise/Desktop/auto-follow/calibration/CMakeFiles/rebuild_cache.dir

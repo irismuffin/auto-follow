@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<opencv_storage>
+  <cameraMatrix type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>3</cols>
+    <dt>d</dt>
+    <data>
+      6.3629732668989357e+02 0. 320. 0. 6.3629732668989357e+02 240. 0. 0.
+      1.
+    </data>
+  </cameraMatrix> <!-- 修正了标签 -->
+  
+  <distCoeffs type_id="opencv-matrix">
+    <rows>5</rows>
+    <cols>1</cols>
+    <dt>d</dt>
+    <data>
+      4.6847959164459219e-02 -8.4386005268350384e-01 0. 0.
+      8.6624038357245770e+00
+    </data>
+  </distCoeffs>
+</opencv_storage>
+

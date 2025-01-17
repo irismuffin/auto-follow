@@ -1,0 +1,49 @@
+cameraMatrix[636.2973266898936, 0, 320;
+ 0, 636.2973266898936, 240;
+ 0, 0, 1]
+distCoeffs[0.04684795916445922;
+ -0.8438600526835038;
+ 0;
+ 0;
+ 8.662403835724577]
+init serial port:3 sucess
+open port
+initial OK!!!
+begin !
+cameraMatrix[636.2973266898936, 0, 320;
+ 0, 636.2973266898936, 240;
+ 0, 0, 1]
+distCoeffs[0.04684795916445922;
+ -0.8438600526835038;
+ 0;
+ 0;
+ 8.662403835724577]
+end
+[info] distance :1212.19cm
+[info] distance :1213.82cm
+[info] distance :1213.66cm
+[info] distance :1213.23cm
+[info] distance :1213.23cm
+no target
+[info] distance :233cm
+no target
+[info] distance :1211.72cm
+x = 72
+y = 127
+theta.y = 11.2149
+abs w:11.2149send:-56.2149
+[info] distance :1213.34cm
+x = 82
+y = 109
+theta.y = 16.5922
+abs w:16.5922send:-61.5922
+[info] distance :1213.48cm
+x = 82
+y = 114
+theta.y = 15.988
+abs w:15.988send:-60.988
+[info] distance :1212.91cm
+x = 97
+y = 94
+theta.y = 21.7742
+abs w:21.7742send:-66.7742

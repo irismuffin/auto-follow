@@ -1,0 +1,3 @@
+/home/sunrise/Desktop/auto-follow/CMakeFiles/auto-follow.dir
+/home/sunrise/Desktop/auto-follow/CMakeFiles/edit_cache.dir
+/home/sunrise/Desktop/auto-follow/CMakeFiles/rebuild_cache.dir
