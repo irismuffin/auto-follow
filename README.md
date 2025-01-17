@@ -7,7 +7,7 @@ auto-follow/
 ├─opencv-cpp/                        # 通过opencv的视觉图像处理识别车牌  
 ├─video_source_and_frame/            # OV5647摄像头采集的车牌视频以及图像帧  
 ├─yolov5/                            # yolov5的训练代码，自定义内容在mydata/目录下  
-└─yolov5-python/                     # 通过Pytorch和onnx_runtime部署onnx模型  
+├─yolov5-python/                     # 通过Pytorch和onnx_runtime部署onnx模型  
 └─智能机器人设计实验报告_第一组.pdf    # 本课程设计的详细实验报告，其中包含硬件系统结构和程序流程
 ```
 ## 项目环境
